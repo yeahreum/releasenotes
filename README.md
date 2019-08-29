@@ -5,7 +5,7 @@ Yeahreum Core version 0.12.3.3
 
 Release is now available from:
 
-  <https://www.yeahreum.org/downloads/#wallets>
+  <https://www.yeahreum.org/downloads
 
 This is a critical bugfix release.
 
