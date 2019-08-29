@@ -1,4 +1,4 @@
-# releasenotes
+# :)
 Yeahreum Release Notes
 Yeahreum Core version 0.12.3.3
 ==========================
