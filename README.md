@@ -11,7 +11,7 @@ This is a critical bugfix release.
 
 Please report bugs using the issue tracker at github:
 
-  <https://github.com/yeahreumpay/yeahreum/issues>
+  <https://github.com/yeahreum/issues>
 
 
 Upgrading and downgrading
