@@ -5,7 +5,7 @@ Yeahreum Core version 0.12.3.3
 
 Release is now available from:
 
-  <https://www.yeahreum.org/downloads
+https://www.yeahreum.org/
 
 This is a critical bugfix release.
 
